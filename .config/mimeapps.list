@@ -1,0 +1,6 @@
+[Added Associations]
+image/jpeg=firefox.desktop;
+inode/directory=firefox.desktop;vlc.desktop;
+image/webp=firefox.desktop;
+application/rss+xml=firefox.desktop;
+application/octet-stream=nvim.desktop;

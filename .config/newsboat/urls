@@ -1,0 +1,17 @@
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml "news" "~New York Times Homepage"
+https://feeds.a.dj.com/rss/RSSWorldNews.xml "news" "~WSJ World News" 
+https://lukesmith.xyz/rss.xml "~Luke Smith (Website)"
+https://landchad.net/rss.xml "~Landchad.net"
+https://artixlinux.org/feed.php "tech" "~Artix News Feed"
+https://www.archlinux.org/feeds/news/ "tech" "~Arch Linux News Feed"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "youtube" "~Luke Smith (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "youtube" "~DistroTube (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCO5Jvsc_sKuZi3MhnJxrlzQ "youtube" "~Nyanners (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw "youtube" "~Pewdiepie (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "youtube" "~Mental Outlaw (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV5rcu0zw_3gLEex_f1D_fg "youtube" "~Sneako (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCy5tR9C0xM6tp7ha1Usq9Ag "youtube" "~Shneako (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfUaZ8Ra7m7BqUEACv2jySw "youtube" "~Hyde Wars (YouTube)"
+https://twitchrss.appspot.com/vod/nyanners "twitch" "~Nyanners (Twitch)"
+https://web.archive.org/web/20190215000340/https://nyanners.wordpress.com/feed/
+https://web.archive.org/web/20111126214420/http://nyanners.wordpress.com/comments/feed/

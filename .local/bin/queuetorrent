@@ -1,0 +1,7 @@
+#!/bin/sh
+
+TORRENT=$(xclip -o)
+
+transmission-daemon &
+
+tsp transmission-remote -a "$TORRENT"

@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# ZSH Aliases
+
+# Neovim
+alias vi=nvim
+alias vim=nvim
+
+# LF with previews
+alias lf=lfub
+
+# XINITRC env variable
+[ -f "$XINITRC" ] && alias startx="startx $XINITRC"
+
+#abook use XDG
+alias abook="abook --config "$XDG_CONFIG_HOME"/abook/abookrc --datafile "$XDG_DATA_HOME"/abook/addressbook"
+alias wget="wget --hsts-file="$XDG_CACHE_HOME/wget-hsts""

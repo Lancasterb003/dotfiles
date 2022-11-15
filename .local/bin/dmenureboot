@@ -1,0 +1,5 @@
+#!/bin/sh
+
+pass1 = dmenupass "Reboot (password)?"
+
+sudo reboot

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "yes\nno" | dmenu -p "$1"

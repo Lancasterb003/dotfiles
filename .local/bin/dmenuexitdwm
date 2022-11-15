@@ -1,0 +1,11 @@
+#!/bin/sh
+
+case $(dmenuyesno "Exit dwm?") in
+    yes)
+        killall dwm
+        break
+        ;;
+    no)
+        break
+        ;;
+esac
